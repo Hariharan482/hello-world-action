@@ -9,7 +9,7 @@
 ### Usage
 
 ```yaml
-- uses: Hariharan482/hello-world-action@v1
+- uses: Hariharan482/hello-world-action@v2
   with:
     name: <name>
 ```
